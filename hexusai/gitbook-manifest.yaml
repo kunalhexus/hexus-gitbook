@@ -17,7 +17,7 @@ summary: |
     Just paste a Hexus Flow or Mutliflow URL into your Gitbook documentation and the integration will automatically render it as an interactive product demo.
 
     # Configure
-    Simply navigate to [https://www.gitbook.com/integrations/hexusai](https://www.gitbook.com/integrations/hexusai) and click the install button to get started. Choose the appropriate options in the installation flow to install Hexus in one or more spaces or across your Gitbook organization.
+    Simply navigate to [https://app.gitbook.com/integrations/hexusai](https://app.gitbook.com/integrations/hexusai) and click the install button to get started. Choose the appropriate options in the installation flow to install Hexus in one or more spaces or across your Gitbook organization.
 
 externalLinks:
   - label: Hexus AI
