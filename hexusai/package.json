@@ -1,0 +1,15 @@
+{
+    "name": "hexusai",
+    "private": true,
+    "scripts": {
+        "typecheck": "tsc --noEmit",
+        "publish": "gitbook publish ."
+    },
+    "dependencies": {
+        "@gitbook/runtime": "*"
+    },
+    "devDependencies": {
+        "@gitbook/cli": "^0.19.0",
+        "@gitbook/tsconfig": "*"
+    }
+}

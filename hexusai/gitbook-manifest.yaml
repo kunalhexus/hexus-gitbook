@@ -1,0 +1,38 @@
+name: hexusai
+title: Hexus
+icon: ./assets/hexus-small.png
+previewImages:
+  - ./assets/hexus-preview.png
+script: src/index.tsx
+description: 'Streamline your documentation with interactive demos and tutorials made with Hexus'
+summary: |
+    # Overview
+
+    Hexus enables you to create interactive product demos, walkthroughs, vidoes and how to guides with just a few clicks, enabling them to learn at their own pace.
+
+    This integration enables embedding Hexus demos, right into your Gitbook pages for easy access and visualization.
+
+    # How it works
+
+    Just paste a Hexus Flow or Mutliflow URL into your Gitbook documentation and the integration will automatically render it as an interactive product demo.
+
+    # Configure
+    Simply navigate to [https://www.gitbook.com/integrations/hexusai](https://www.gitbook.com/integrations/hexusai) and click the install button to get started. Choose the appropriate options in the installation flow to install Hexus in one or more spaces or across your Gitbook organization.
+
+externalLinks:
+  - label: Hexus AI
+    url: https://hexus.ai
+  - label: Documentation
+    url: https://support.hexus.ai/
+
+scopes: []
+blocks:
+  - id: hexusai
+    title: Hexus
+    description: Hexus interactive demos, walkthroughs, and guides
+    urlUnfurl:
+      - https://app.usehexus.com/flow/**
+      - https://app.usehexus.com/multiflow/**
+visibility: unlisted
+organization: 0w8auQMDECQI4T6pfQPY
+secrets: {}
