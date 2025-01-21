@@ -4,13 +4,13 @@ icon: ./assets/hexus-small.png
 previewImages:
   - ./assets/hexus-preview.png
 script: src/index.tsx
-description: 'Streamline your documentation with interactive demos and tutorials made with Hexus'
+description: 'Supercharge your documentation with on-brand interactive product demos, tutorials created in minutes'
 summary: |
     # Overview
 
-    Hexus enables you to create interactive product demos, walkthroughs, vidoes and how to guides with just a few clicks, enabling them to learn at their own pace.
+    Hexus empowers GTM teams to enhance customer experiences with interactive product demos, walkthroughs, and how-to guides created in just a few clicks. Deliver personalized content faster across multiple formats.
 
-    This integration enables embedding Hexus demos, right into your Gitbook pages for easy access and visualization.
+    This integration allows you to embed Hexus demos directly into your Gitbook pages for easy access and visualization.
 
     # How it works
 
