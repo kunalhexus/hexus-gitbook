@@ -33,6 +33,6 @@ blocks:
     urlUnfurl:
       - https://app.usehexus.com/flow/**
       - https://app.usehexus.com/multiflow/**
-visibility: unlisted
+visibility: public
 organization: 0w8auQMDECQI4T6pfQPY
 secrets: {}
